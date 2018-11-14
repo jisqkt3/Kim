@@ -1,0 +1,20 @@
+{
+  "name": "protractor",
+  "author": "Shrish",
+  "description": "Webdriver E2E test wrapper for Angular.",
+  "version": "1.0.0",
+  "dependencies": {
+    "jasmine": "3.1.0",
+    "jasmine-data-provider": "2.2.0",
+    "protractor": "^5.3.0",
+    "protractor-beautiful-reporter": "^1.2.6",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+    "selenium-standalone": "^6.5.0",
+    "selenium-webdriver": "^2.53.3"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "jasmine-data-provider": "2.2.0"
+  }
+}
